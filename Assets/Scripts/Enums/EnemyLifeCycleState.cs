@@ -1,0 +1,1 @@
+public enum EnemyLifeCycleState { Spawning, Alive, Dead }
